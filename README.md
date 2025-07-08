@@ -24,7 +24,7 @@ This project focuses on creating a chat application that can understand and resp
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Xtalism/natural-language-nltk-python.git
 cd natural-language-nltk-python
 ```
 
