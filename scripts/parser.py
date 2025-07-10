@@ -1,22 +1,20 @@
-import os, sys
-from html.parser import HTMLParser
+import parser, sys
+from bs4 import BeautifulSoup
 
-data_path = "data/messages2.html"
-f = open(data_path)
-# print(f.read())
+with open("data/messages.html", "r", encoding="utf-8") as f:
+    html_content = f.read()
 
-class MyHTMLParser(HTMLParser):
-    def handle_starttag(self, tag, attrs):
-        print("Encountered a start tag:", tag)
+soup = BeautifulSoup(html_content, "html.parser")
 
-    def handle_endtag(self, tag):
-        print("Encountered an end tag :", tag)
+messages = []
+for div in soup.find_all("div", class_=lambda x: x and "message" in x.lower()):
+    message_text = div.get_text(strip=True)
+    if message_text:
+        messages.append(message_text)
 
-    def handle_data(self, data):
-        print("Encountered some data  :", data)
+output_file = "messages_data.txt"
+with open(output_file, "w", encoding="utf-8") as f:
+    for i, message in enumerate(messages, 1):
+        f.write(f"Message {i}: {message}\n")
 
-parser = MyHTMLParser()
-parser.feed(f.read())
-
-if __name__ == '__main__':
-    sys.exit(MyHTMLParser())
+print(f"Extracted messages have been saved to {output_file}")
