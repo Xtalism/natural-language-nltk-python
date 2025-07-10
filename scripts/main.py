@@ -24,3 +24,8 @@ try:
     print(brown.words()[:10])  # Should print: ['The', 'Fulton', 'County', 'Grand', ...]
 except Exception as e:
     print(f"Corpus access failed: {e}\nRun: sudo python3 -m nltk.downloader -d /usr/share/nltk_data brown")
+    
+    
+    
+    if __name__ == '__main__':
+    sys.exit(MyHTMLParser())
