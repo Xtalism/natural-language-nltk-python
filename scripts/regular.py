@@ -25,8 +25,8 @@ def main():
     ]
     
     patterns = {
-        'IN_numbers': r'IN-\d+[^•]+',
-        'PR_numbers': r'PR-\d+[^•]+',
+        'IN_numbers': r'IN-\d+[^\n•]*',
+        'PR_numbers': r'PR-[a-z0-9A-Z]+[^\n•]*',
     }
 
     for i, filename in enumerate(input_files):
