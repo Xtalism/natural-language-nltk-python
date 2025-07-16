@@ -13,7 +13,8 @@ def open_file(filename):
 def save_file(messages, output_filename):
     with open(output_filename, 'w') as file:
         for message in messages:
-            file.write(message + '\n')
+            clean_message = re.sub(r'\s+', ' ', message).strip()
+            file.write(clean_message + '\n')
 
 def main():
     input_files = [
@@ -24,16 +25,16 @@ def main():
     ]
     
     patterns = {
-        'IN_numbers': r'IN-\d+',
-        'PR_numbers': r'PR-\d+',
+        'IN_numbers': r'IN-\d+[^•]+',
+        'PR_numbers': r'PR-\d+[^•]+',
     }
 
     for i, filename in enumerate(input_files):
         content = open_file(filename)
         data =[]
-        for pattern_name, pattern in patterns.items():
+        for _, pattern in patterns.items():
             extract = extract_pattern(content, pattern, True)
             data.extend(extract)
-        save_file(data, f'data/extraction/data_{i+1}_extraction.txt')
+        save_file(data, f'data/extraction/data_ex_{i+1}.txt')
 
 main()
