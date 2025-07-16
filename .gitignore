@@ -3,6 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Code runner
+tempCodeRunnerFile.py
+
 # Directories
 data/
 

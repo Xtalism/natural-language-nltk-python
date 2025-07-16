@@ -18,14 +18,15 @@ def save_file(messages, output_filename):
 
 def main():
     input_files = [
-        'data/messages_data1.txt',
-        'data/messages_data2.txt',
-        'data/messages_data3.txt',
-        'data/messages_data4.txt'
+        'data/parsed/messages_data1.txt',
+        'data/parsed/messages_data2.txt',
+        'data/parsed/messages_data3.txt',
+        'data/parsed/messages_data4.txt',
+        'data/parsed/messages_data5.txt'
     ]
     
     patterns = {
-        'IN_numbers': r'IN-\d+[^\n•]*',
+        'IN_numbers': r'IN-[a-z0-9A-Z]+[^\n•]*',
         'PR_numbers': r'PR-[a-z0-9A-Z]+[^\n•]*',
     }
 

@@ -1,7 +1,7 @@
 import nltk, sys, parser
 from nltk.tokenize import word_tokenize
 from nltk.corpus import brown
-from nltk.chat import chat, reflections
+# from nltk.chat import chat, reflections
 
 # 1. Configure NLTK to find your data
 # nltk.data.path.append('/usr/share/nltk_data')  # Add system location
@@ -9,10 +9,11 @@ from nltk.chat import chat, reflections
 
 # 2. Verify punkt tokenizer is found
 
-parser.HTMLParser.parse_file("data/messages.html", "data/messages_data1.txt")
-parser.HTMLParser.parse_file("data/messages2.html", "data/messages_data2.txt")
-parser.HTMLParser.parse_file("data/messages3.html", "data/messages_data3.txt")
-parser.HTMLParser.parse_file("data/messages4.html", "data/messages_data4.txt")
+parser.HTMLParser.parse_file("data/messages.html", "data/parsed/messages_data1.txt")
+parser.HTMLParser.parse_file("data/messages2.html", "data/parsed/messages_data2.txt")
+parser.HTMLParser.parse_file("data/messages3.html", "data/parsed/messages_data3.txt")
+parser.HTMLParser.parse_file("data/messages4.html", "data/parsed/messages_data4.txt")
+parser.HTMLParser.parse_file("data/messages5.html", "data/parsed/messages_data5.txt")
 
 class Main():
     def __init__(self):
