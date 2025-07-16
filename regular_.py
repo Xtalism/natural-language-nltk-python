@@ -30,7 +30,10 @@ def main():
 
     for i, filename in enumerate(input_files):
         content = open_file(filename)
-        extract = extract_pattern(content, patterns['PR_numbers'], True)
-        save_file(extract, f'data/extraction/cfe_extraction_{i+1}.txt')
+        data =[]
+        for pattern_name, pattern in patterns.items():
+            extract = extract_pattern(content, pattern, True)
+            data.extend(extract)
+        save_file(data, f'data/extraction/data_{i+1}_extraction.txt')
 
 main()
