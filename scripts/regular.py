@@ -15,6 +15,12 @@ patterns = {
     'PR_numbers': r'PR-[a-z0-9A-Z]+[^\n•]*',
 }
 
+def extract_substations(text, pattern, verbose=False):
+    matches = re.findall(pattern, text, flags=re.IGNORECASE)
+    if verbose:
+        print(f'\nFound {len(matches)} matches for pattern "{pattern}":\n{matches}')
+    return matches
+
 def extract_pattern(text, pattern, verbose=False):
     if 'Subestación Afectada' in pattern:
         substation_blocks = re.finditer(
@@ -59,16 +65,15 @@ def save_file(messages, output_filename):
 def process_file(input_files, pattern_dictionary):
         for i, filename in enumerate(input_files):
             content = open_file(filename)
-            # data = []
 
             for pattern_name, pattern in pattern_dictionary.items():
                 extract = extract_pattern(content, pattern, True)
-                # data.extend(extract)
+                extract_sub = extract_substations(content, pattern, True)
 
                 if pattern_name == 'Substations_all':
                     save_file(extract, f'data/extraction/data_all_{i+1}.txt')
                 elif pattern_name == 'Substations_only':
-                    save_file(extract, f'data/extraction/data_substations_{i+1}.txt')
+                    save_file(extract_sub, f'data/extraction/data_substations_{i+1}.txt')
                 elif pattern_name == 'IN_numbers':
                     save_file(extract, f'data/extraction/data_in_{i+1}.txt')
                 elif pattern_name == 'PR_numbers':
