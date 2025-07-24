@@ -1,7 +1,7 @@
 import sys
-from parser import parse_file as html_parse
 
-from regular import parse_files as regex_extract
+from html_parser import parse_file as html_parse
+from regular_expression import parse_files as regex_extract
 
 from data import data_files, patterns
 
