@@ -1,0 +1,432 @@
+IN-94020 RE 02 Cambio Comandado CERRAD RTN REC POR lrtc
+IN-5525 Cambio Comandado CERRAD RTN REC POR jata
+IN-5525 Cambio Comandado CERRAD RTN REC POR jata
+IN-5515 Cambio Comandado CERRAD RTN REC POR jata
+IN-5050 Cambio Comandado CERRAD RTN REC POR jata
+IN-5545 ALIMENT CD Cambio Comandado CERRAD RTN REC POR jata
+IN-5010 Cambio Comandado CERRAD RTN REC POR jata
+IN-73140 REA Cambio Comandado CERRAD RTN REC POR lrtc
+IN-94020 RE 02 Cambio Comandado CERRAD RTN REC POR lrtc
+IN-5525 Cambio Comandado CERRAD RTN REC POR jata
+IN-5525 Cambio Comandado CERRAD RTN REC POR jata
+IN-5515 Cambio Comandado CERRAD RTN REC POR jata
+IN-5050 Cambio Comandado CERRAD RTN REC POR jata
+IN-94020 RE 02 Cambio Comandado CERRAD RTN REC POR lrtc
+IN-5525 Cambio Comandado CERRAD RTN REC POR jata
+IN-5525 Cambio Comandado CERRAD RTN REC POR jata
+IN-5515 Cambio Comandado CERRAD RTN REC POR jata
+IN-5050 Cambio Comandado CERRAD RTN REC POR jata
+IN-5545 ALIMENT CD Cambio Comandado CERRAD RTN REC POR jata
+IN-5010 Cambio Comandado CERRAD RTN REC POR jata
+IN-73140 REA Cambio Comandado CERRAD RTN REC POR lrtc
+IN-94020 RE 02 Cambio Comandado CERRAD RTN REC POR lrtc
+IN-5525 Cambio Comandado CERRAD RTN REC POR jata
+IN-5525 Cambio Comandado CERRAD RTN REC POR jata
+IN-5515 Cambio Comandado CERRAD RTN REC POR jata
+IN-5050 Cambio Comandado CERRAD RTN REC POR jata
+IN-5545 ALIMENT CD Cambio Comandado CERRAD RTN REC POR jata
+IN-5010 Cambio Comandado CERRAD RTN REC POR jata
+IN-73140 REA Cambio Comandado CERRAD RTN REC POR lrtc
+IN-94020 RE 02 Cambio Comandado CERRAD RTN REC POR lrtc
+IN-5525 Cambio Comandado CERRAD RTN REC POR jata
+IN-5525 Cambio Comandado CERRAD RTN REC POR jata
+IN-5515 Cambio Comandado CERRAD RTN REC POR jata
+IN-5050 Cambio Comandado CERRAD RTN REC POR jata
+IN-5545 ALIMENT CD Cambio Comandado CERRAD RTN REC POR jata
+IN-5010 Cambio Comandado CERRAD RTN REC POR jata
+IN-94020 RE 02 Cambio Comandado CERRAD RTN REC POR lrtc
+IN-5525 Cambio Comandado CERRAD RTN REC POR jata
+IN-5525 Cambio Comandado CERRAD RTN REC POR jata
+IN-5515 Cambio Comandado CERRAD RTN REC POR jata
+IN-5050 Cambio Comandado CERRAD RTN REC POR jata
+IN-5545 ALIMENT CD Cambio Comandado CERRAD RTN REC POR jata
+IN-5010 Cambio Comandado CERRAD RTN REC POR jata
+IN-73140 REA Cambio Comandado CERRAD RTN REC POR lrtc
+IN-94020 RE 02 Cambio Comandado CERRAD RTN REC POR lrtc
+IN-5525 Cambio Comandado CERRAD RTN REC POR jata
+IN-5525 Cambio Comandado CERRAD RTN REC POR jata
+IN-5515🕐Hora del Evento:15:00:13💬Mensaje:
+IN-73740 CGR LT🕐Hora del Evento:15:00:39💬Mensaje:
+IN-5515🕐Hora del Evento:15:00:13💬Mensaje:
+IN-73740 CGR LT🕐Hora del Evento:15:00:39💬Mensaje:
+IN-5515🕐Hora del Evento:15:00:13💬Mensaje:
+IN-73740 CGR LT🕐Hora del Evento:15:00:39💬Mensaje:
+IN-5515🕐Hora del Evento:15:00:13💬Mensaje:
+IN-73740 CGR LT🕐Hora del Evento:15:00:39💬Mensaje:
+IN-5515🕐Hora del Evento:15:00:13💬Mensaje:
+IN-73740 CGR LT🕐Hora del Evento:15:00:39💬Mensaje:
+IN-5515🕐Hora del Evento:15:00:13💬Mensaje:
+IN-73740 CGR LT🕐Hora del Evento:15:00:39💬Mensaje:
+IN-5615🕐Hora del Evento:15:01:21💬Mensaje:
+IN-73740 CGR LT🕐Hora del Evento:15:01:35💬Mensaje:
+IN-5525🕐Hora del Evento:15:03:56💬Mensaje:
+IN-5525🕐Hora del Evento:15:04:28💬Mensaje:
+IN-5615🕐Hora del Evento:15:05:57💬Mensaje:
+IN-75010 CP 01🕐Hora del Evento:15:07:40💬Mensaje:
+IN-5515🕐Hora del Evento:15:00:13💬Mensaje:
+IN-73740 CGR LT🕐Hora del Evento:15:00:39💬Mensaje:
+IN-5615🕐Hora del Evento:15:01:21💬Mensaje:
+IN-73740 CGR LT🕐Hora del Evento:15:01:35💬Mensaje:
+IN-5525🕐Hora del Evento:15:03:56💬Mensaje:
+IN-5525🕐Hora del Evento:15:04:28💬Mensaje:
+IN-5615🕐Hora del Evento:15:05:57💬Mensaje:
+IN-75010 CP 01🕐Hora del Evento:15:07:40💬Mensaje:
+IN-5120🕐Hora del Evento:15:08:00💬Mensaje:
+IN-94020 RE 02🕐Hora del Evento:15:08:16💬Mensaje:
+IN-94030 NCG🕐Hora del Evento:15:08:47💬Mensaje:
+IN-73740 CGR LT🕐Hora del Evento:15:09:01💬Mensaje:
+IN-5030🕐Hora del Evento:15:09:29💬Mensaje:
+IN-73740 CGR LT🕐Hora del Evento:15:09:52💬Mensaje:
+IN-94030 NCG🕐Hora del Evento:15:09:52💬Mensaje:
+IN-94020 RE 02 Cambio Comandado CERRAD RTN REC POR lrtc
+IN-75010 CP 01🕐Hora del Evento:15:09:52💬Mensaje:
+IN-5615🕐Hora del Evento:15:11:03💬Mensaje:
+IN-5515🕐Hora del Evento:15:00:13💬Mensaje:
+IN-73740 CGR LT🕐Hora del Evento:15:00:39💬Mensaje:
+IN-5615🕐Hora del Evento:15:01:21💬Mensaje:
+IN-73740 CGR LT🕐Hora del Evento:15:01:35💬Mensaje:
+IN-5525🕐Hora del Evento:15:03:56💬Mensaje:
+IN-5525🕐Hora del Evento:15:04:28💬Mensaje:
+IN-5515🕐Hora del Evento:15:00:13💬Mensaje:
+IN-73740 CGR LT🕐Hora del Evento:15:00:39💬Mensaje:
+IN-5515 Cambio No Comandado ABIERT
+IN-5615 Cambio No Comandado ABIERT
+IN-5615🕐Hora del Evento:15:01:21💬Mensaje:
+IN-73740 CGR LT🕐Hora del Evento:15:01:35💬Mensaje:
+IN-5515🕐Hora del Evento:15:00:13💬Mensaje:
+IN-5515 Cambio No Comandado CERRAD RTN
+IN-73740 CGR LT🕐Hora del Evento:15:00:39💬Mensaje:
+IN-73740 CGR LT Cambio No Comandado CERRAD RTN
+IN-5515 Cambio No Comandado ABIERT
+IN-5615 Cambio No Comandado ABIERT
+IN-5515 Cambio No Comandado CERRAD RTN
+IN-73740 CGR LT Cambio No Comandado CERRAD RTN
+IN-5515 Cambio No Comandado ABIERT
+IN-5615 Cambio No Comandado ABIERT
+IN-5525 Cambio Comandado CERRAD RTN REC POR jata
+IN-5525 Cambio Comandado CERRAD RTN REC POR jata
+IN-5525 Cambio Comandado CERRAD RTN REC POR jata
+IN-5525 Cambio Comandado CERRAD RTN REC POR jata
+IN-5525 Cambio Comandado CERRAD RTN REC POR jata
+IN-5525 Cambio Comandado CERRAD RTN REC POR jata
+IN-5525 Cambio Comandado CERRAD RTN REC POR jata
+IN-5525 Cambio Comandado CERRAD RTN REC POR jata
+IN-5515 Cambio No Comandado CERRAD RTN
+IN-5515 Cambio No Comandado CERRAD RTN
+IN-5515 Cambio No Comandado CERRAD RTN
+IN-73740 CGR LT Cambio No Comandado CERRAD RTN
+IN-5515 Cambio No Comandado ABIERT
+IN-5615 Cambio No Comandado ABIERT
+IN-5615 Cambio No Comandado CERRAD RTN
+IN-5515 Cambio No Comandado CERRAD RTN
+IN-73740 CGR LT Cambio No Comandado CERRAD RTN
+IN-5515 Cambio No Comandado ABIERT
+IN-5615 Cambio No Comandado ABIERT
+IN-5615 Cambio No Comandado CERRAD RTN
+IN-73740 CGR LT Cambio No Comandado CERRAD RTN REC POR lrtc
+IN-5525 Cambio No Comandado ABIERT
+IN-5525 Cambio No Comandado CERRAD RTN
+IN-5525 Cambio No Comandado ABIERT
+IN-5525 Cambio No Comandado CERRAD RTN
+IN-5525 Cambio No Comandado ABIERT
+IN-5615 Cambio No Comandado ABIERT
+IN-5615 Cambio No Comandado CERRAD RTN
+IN-5120 Cambio No Comandado ABIERT
+IN-5515 Cambio No Comandado CERRAD RTN
+IN-73740 CGR LT Cambio No Comandado CERRAD RTN
+IN-5515 Cambio No Comandado CERRAD RTN
+IN-73740 CGR LT Cambio No Comandado CERRAD RTN
+IN-5515 Cambio No Comandado ABIERT
+IN-5615 Cambio No Comandado ABIERT
+IN-5515 Cambio No Comandado CERRAD RTN
+IN-73740 CGR LT Cambio No Comandado CERRAD RTN
+IN-5515 Cambio No Comandado ABIERT
+IN-5615 Cambio No Comandado ABIERT
+IN-5615 Cambio No Comandado CERRAD RTN
+IN-73740 CGR LT Cambio No Comandado CERRAD RTN REC POR lrtc
+IN-5525 Cambio No Comandado ABIERT
+IN-5525 Cambio No Comandado CERRAD RTN
+IN-5525 Cambio No Comandado ABIERT
+IN-5525 Cambio No Comandado CERRAD RTN
+IN-5525 Cambio No Comandado ABIERT
+IN-5615 Cambio No Comandado ABIERT
+IN-5615 Cambio No Comandado CERRAD RTN
+IN-5120 Cambio No Comandado ABIERT
+IN-75010 CP 01 Anormal Cambio Autorizado ABIERT
+IN-5120 Cambio No Comandado CERRAD RTN
+IN-94020 RE 02 Cambio Comandado CERRAD RTN
+IN-94030 NCG Cambio Comandado CERRAD RTN
+IN-73740 CGR LT Cambio No Comandado ABIERT
+IN-5030 Cambio No Comandado ABIERT
+IN-5030 Cambio No Comandado CERRAD RTN
+IN-5515 Cambio No Comandado CERRAD RTN
+IN-73740 CGR LT Cambio No Comandado CERRAD RTN
+IN-5515 Cambio No Comandado ABIERT
+IN-5615 Cambio No Comandado ABIERT
+IN-5615 Cambio No Comandado CERRAD RTN
+IN-73740 CGR LT Cambio No Comandado CERRAD RTN REC POR lrtc
+IN-5525 Cambio No Comandado ABIERT
+IN-5525 Cambio No Comandado CERRAD RTN
+IN-5525 Cambio No Comandado ABIERT
+IN-5525 Cambio No Comandado CERRAD RTN
+IN-5525 Cambio No Comandado ABIERT
+IN-5615 Cambio No Comandado ABIERT
+IN-78200 ANILLO Anormal Cambio Autorizado ABIERT
+IN-78200 ANILLO PSEUDO Cambio No Comandado ABIERT
+IN-78350 ANILLO LT/LT Anormal Cambio Autorizado ABIERT
+IN-73200 CAR Anormal Cambio Autorizado ABIERT
+IN-73200 CAR Anormal Cambio Autorizado ABIERT REC POR lrtc
+IN-78350 ANILLO LT/LT Anormal Cambio Autorizado ABIERT REC POR lrtc
+IN-78200 ANILLO Anormal Cambio Autorizado ABIERT REC POR lrtc
+IN-78200 ANILLO PSEUDO Cambio No Comandado ABIERT REC POR lgmp
+IN-4035 Cambio No Comandado ABIERT
+IN-4035 Cambio No Comandado CERRAD RTN
+IN-4035 Cambio No Comandado CERRAD RTN REC POR lgmp
+IN-4035 Cambio No Comandado ABIERT REC POR lgmp
+IN-4700 Cambio No Comandado ABIERT
+IN-4700 Cambio No Comandado CERRAD RTN
+IN-77000 TRANSFE Cambio Comandado CERRAD RTN
+IN-4700 Cambio No Comandado CERRAD RTN REC POR lgmp
+IN-4700 Cambio No Comandado ABIERT REC POR lgmp
+IN-77000 TRANSFE Cambio Comandado CERRAD RTN REC POR lrtc
+IN-73620 OTV Cambio No Comandado ABIERT
+IN-73620 OTV Cambio No Comandado ABIERT REC POR lrtc
+IN-4065 Cambio No Comandado ABIERT
+IN-4065 Cambio No Comandado CERRAD RTN
+IN-4065 Cambio No Comandado CERRAD RTN REC POR lgmp
+IN-4065 Cambio No Comandado ABIERT REC POR lgmp
+IN-5030 ALIMENT CD Cambio No Comandado ABIERT
+IN-5030 ALIMENT CD Cambio No Comandado ABIERT REC POR lgmp
+IN-4290 Cambio No Comandado ABIERT
+IN-4290 Cambio No Comandado CERRAD RTN
+IN-4290 Cambio No Comandado CERRAD RTN REC POR lgmp
+IN-4290 Cambio No Comandado ABIERT REC POR lgmp
+IN-4940 Cambio No Comandado ABIERT
+IN-4940 Cambio No Comandado CERRAD RTN
+IN-4940 Cambio No Comandado CERRAD RTN REC POR lgmp
+IN-4940 Cambio No Comandado ABIERT REC POR lgmp
+IN-4225 Cambio No Comandado ABIERT
+IN-4225 Cambio Comandado CERRAD RTN
+IN-4225 Cambio Comandado CERRAD RTN REC POR jata
+IN-4225 Cambio No Comandado ABIERT REC POR jata
+IN-94020 RE 02 Anormal Cambio Autorizado ABIERT
+IN-94020 RE 02 Anormal Cambio Autorizado ABIERT REC POR lrtc
+IN-73620 OTV Anormal Cambio Autorizado ABIERT
+IN-78460 ANILLO LT/T Anormal Cambio Autorizado ABIERT
+IN-78460 ANILLO LT/T Anormal Cambio Autorizado ABIERT REC POR lrtc
+IN-73620 OTV Anormal Cambio Autorizado ABIERT REC POR lrtc
+IN-5130 Cambio Comandado CERRAD RTN
+IN-73560 Cambio No Comandado CERRAD RTN
+IN-73470 Cambio No Comandado CERRAD RTN
+IN-73560 Cambio No Comandado CERRAD RTN REC POR lrtc
+IN-73470 Cambio No Comandado CERRAD RTN REC POR lrtc
+IN-73560 Cambio No Comandado CERRAD RTN REC POR lrtc
+IN-73470 Cambio No Comandado CERRAD RTN REC POR lrtc
+IN-4245 Cambio No Comandado ABIERT
+IN-4245 Cambio No Comandado CERRAD RTN
+IN-4245 Cambio No Comandado CERRAD RTN REC POR lgmp
+IN-4245 Cambio No Comandado ABIERT REC POR lgmp
+IN-4020 X Cambio No Comandado ABIERT
+IN-4020 X Cambio No Comandado ABIERT REC POR lgmp
+IN-4020 X Cambio No Comandado CERRAD RTN
+IN-5010 Cambio No Comandado ABIERT
+IN-5010 Cambio No Comandado CERRADO RTN
+IN-4040 Cambio No Comandado ABIERT
+IN-4040 Cambio No Comandado CERRADO RTN
+IN-5010 CD Cambio No Comandado ABIERT
+IN-5010 CD Cambio No Comandado CERRADO RTN
+IN-4430 Anormal Cambio Autorizado ABIERTO
+IN-4430 Cambio Comandado CERRADO RTN
+IN-5230 ALIMENT CD Cambio No Comandado ABIERT
+IN-5030 ALIMENT CD Cambio No Comandado ABIERT
+IN-5230 ALIMENT CD Cambio No Comandado ABIERT
+IN-5030 ALIMENT CD Cambio No Comandado ABIERT
+IN-5230 ALIMENT CD Cambio No Comandado ABIERT
+IN-5030 ALIMENT CD Cambio No Comandado ABIERT
+IN-5110 Cambio No Comandado ABIERT
+IN-5110 Cambio No Comandado CERRADO RTN
+IN-4075 Cambio No Comandado ABIERTO
+IN-5150 Cambio No Comandado ABIERT
+IN-5150 Cambio No Comandado CERRADO RTN
+IN-4075 Cambio Comandado CERRADO RTN
+IN-47005 TRANSFE Anormal Cambio Autorizado ABIERTO
+IN-47005 PSEUDO Cambio No Comandado ABIERT
+IN-5230 ALIMENT CD Cambio Comandado CERRADO RTN
+IN-5635 ALIMENT CD Cambio No Comandado ABIERT
+IN-5635 ALIMENT CD Cambio No Comandado CERRADO RTN
+IN-5635 ALIMENT CD Cambio No Comandado ABIERT
+IN-5635 ALIMENT CD Cambio No Comandado CERRADO RTN
+IN-5635 ALIMENT CD Cambio No Comandado ABIERT
+IN-79000 AMARRE Anormal Cambio Autorizado ABIERTO
+IN-99000 AMARRE Anormal Cambio Autorizado ABIERTO
+IN-4025 Cambio No Comandado ABIERT
+IN-4730 Cambio No Comandado ABIERT
+IN-4730 Cambio No Comandado CERRADO RTN
+IN-4025 Cambio Comandado CERRADO RTN
+IN-5615 Cambio No Comandado ABIERT
+IN-55035 CP 03 B Cambio No Comandado ABIERTO
+IN-55015 CP 01 Cambio No Comandado ABIERT
+IN-5615 Cambio No Comandado CERRADO RTN
+IN-5635 ALIMENT CD Cambio Comandado CERRADO RTN
+IN-55015 CP 01 Cambio Comandado CERRADO RTN
+IN-5230 ALIMENT CD Cambio No Comandado ABIERT
+IN-5230 ALIMENT CD Cambio No Comandado CERRADO RTN
+IN-73670 XEO LT Cambio Comandado CERRADO RTN
+IN-5625 Cambio No Comandado ABIERT
+IN-5625 Cambio No Comandado CERRADO RTN
+IN-5635 ALIMENT CD Cambio No Comandado ABIERT
+IN-5635 ALIMENT CD Cambio No Comandado CERRADO RTN
+IN-5635 ALIMENT CD Cambio No Comandado ABIERT
+IN-5635 ALIMENT CD Cambio No Comandado CERRADO RTN
+IN-5635 ALIMENT CD Cambio No Comandado ABIERT
+IN-5635 ALIMENT CD Cambio No Comandado CERRADO RTN
+IN-4365 Cambio No Comandado ABIERT
+IN-4365 Cambio No Comandado CERRADO RTN
+IN-4095 Cambio No Comandado ABIERT
+IN-4095 Cambio No Comandado CERRADO RTN
+IN-5040 ALIMENT CD Cambio No Comandado ABIERT
+IN-5040 ALIMENT CD Cambio No Comandado CERRADO RTN
+IN-5445 ALIMENT CD Cambio No Comandado ABIERT
+IN-5445 ALIMENT CD Cambio Comandado CERRADO RTN
+IN-97000 TRANSFE Cambio Comandado CERRADO RTN
+IN-5030 ALIMENT CD Cambio Comandado CERRADO RTN
+IN-92040 AT 04 Anormal Cambio Autorizado ABIERTO
+IN-5040 ALIMENT CD Anormal Cambio Autorizado ABIERTO
+IN-5230 ALIMENT CD Cambio No Comandado ABIERT
+IN-5230 ALIMENT CD Cambio No Comandado CERRADO RTN
+IN-5220 Cambio No Comandado ABIERT
+IN-5220 Cambio No Comandado CERRADO RTN
+IN-41045 UN 04 Cambio No Comandado ABIERTO
+IN-51030 UN 03 Cambio No Comandado ABIERT
+IN-98040 MEDIO Cambio No Comandado ABIERT
+IN-91340 T 34 Cambio No Comandado ABIERT
+IN-5230 ALIMENT CD Cambio No Comandado ABIERT
+IN-5230 ALIMENT CD Cambio No Comandado CERRADO RTN
+IN-5230 ALIMENT CD Cambio No Comandado ABIERT
+IN-5230 ALIMENT CD Cambio No Comandado CERRADO RTN
+IN-5230 ALIMENT CD Cambio No Comandado ABIERT
+IN-5230 ALIMENT CD Cambio No Comandado CERRADO RTN
+IN-92040 AT 04 Cambio Comandado CERRADO RTN
+IN-97000 TRANSFE Anormal Cambio Autorizado ABIERTO
+IN-5230 ALIMENT CD Cambio No Comandado ABIERT
+IN-5230 ALIMENT CD Cambio No Comandado CERRADO RTN
+IN-77000 TRANSFE Anormal Cambio Autorizado ABIERTO
+IN-73220 FTS Anormal Cambio Autorizado ABIERTO
+IN-77000 TRANSFE Cambio Comandado CERRADO RTN
+IN-72990 AT 99 Anormal Cambio Autorizado ABIERTO
+IN-5555 ALIMENT CD Cambio No Comandado ABIERT
+IN-5555 ALIMENT CD Cambio Comandado CERRADO RTN
+IN-72990 AT 99 Cambio Comandado CERRADO RTN
+IN-77000 TRANSFE Anormal Cambio Autorizado ABIERTO
+IN-4860 Cambio No Comandado ABIERT
+IN-4860 Cambio No Comandado CERRADO RTN
+IN-77000 TRANSFE Cambio Comandado CERRADO RTN
+IN-5040 ALIMENT CD Cambio Comandado CERRADO RTN
+IN-5030 ALIMENT CD Cambio No Comandado ABIERT
+IN-73220 FTS Cambio Comandado CERRADO RTN
+IN-4860 Anormal Cambio Autorizado ABIERTO
+IN-4860 Cambio Comandado CERRADO RTN
+IN-5030 ALIMENT CD Cambio Comandado CERRADO RTN
+IN-99000 AMARRE Cambio Comandado CERRADO RTN
+IN-79000 AMARRE Cambio Comandado CERRADO RTN
+IN-75010 CP 01 B Anormal Cambio Autorizado ABIERTO
+IN-4055 Cambio No Comandado ABIERTO
+IN-4055 Cambio No Comandado CERRADO RTN
+IN-4055 Cambio No Comandado ABIERT
+IN-4055 Cambio No Comandado CERRADO RTN
+IN-4055 Cambio No Comandado ABIERT
+IN-4055 Cambio Comandado CERRADO RTN
+IN-4015 Anormal Cambio Autorizado ABIERTO
+IN-5060 ALIMENT XCD Cambio No Comandado ABIERTO
+IN-5060 ALIMENT XCD Cambio No Comandado CERRADO RTN
+IN-5525 Cambio No Comandado ABIERT
+IN-5525 Cambio No Comandado CERRADO RTN
+IN-75010 CP 01 B Cambio Comandado CERRADO RTN
+IN-5210 Cambio No Comandado ABIERT
+IN-5210 Cambio No Comandado CERRADO RTN
+IN-45015 CP 01 B Anormal Cambio Autorizado ABIERTO
+IN-4025 Anormal Cambio Autorizado ABIERTO
+IN-5030 ALIMENT CD Cambio No Comandado ABIERT
+IN-42015 T 01 BAJA Anormal Cambio Autorizado ABIERTO
+IN-5230 ALIMENT CD Cambio No Comandado ABIERT
+IN-5230 ALIMENT CD Cambio No Comandado CERRADO RTN
+IN-42015 T 01 BAJA Cambio Comandado CERRADO RTN
+IN-4015 Cambio Comandado CERRADO RTN
+IN-4015 Anormal Cambio Autorizado ABIERTO
+IN-4025 Cambio No Comandado CERRADO RTN
+IN-45015 CP 01 B Cambio Comandado CERRADO RTN
+IN-73240 LTD Anormal Cambio Autorizado ABIERTO
+IN-73240 LTD Cambio No Comandado CERRAD RTN
+IN-73240 LTD Cambio No Comandado ABIERT
+IN-5040 ALIMENT CD Anormal Cambio Autorizado ABIERTO
+IN-5030 ALIMENT CD Cambio Comandado CERRADO RTN
+IN-4290 Cambio No Comandado ABIERT
+IN-4290 Cambio No Comandado CERRADO RTN
+IN-4290 Cambio No Comandado ABIERT
+IN-4290 Cambio No Comandado CERRADO RTN
+IN-4290 Cambio No Comandado ABIERT
+IN-77000 TRANSFE B1/BT Cambio Comandado CERRADO RTN
+IN-5210 Cambio No Comandado ABIERT
+IN-4290 Cambio Comandado CERRADO RTN
+IN-5015 ALIMENT CD Cambio No Comandado ABIERT
+IN-5015 ALIMENT CD Cambio No Comandado CERRADO RTN
+IN-5015 ALIMENT CD Cambio No Comandado ABIERT
+IN-5015 ALIMENT CD Cambio No Comandado CERRADO RTN
+IN-5015 ALIMENT CD Cambio No Comandado ABIERT
+IN-5015 ALIMENT CD Cambio No Comandado CERRAD RTN
+IN-5015 ALIMENT CD Cambio No Comandado ABIERT
+IN-4050 Cambio No Comandado ABIERT
+IN-4060 Cambio No Comandado ABIERT
+IN-4050 Cambio No Comandado CERRADO RTN
+IN-4060 Cambio Comandado CERRADO RTN
+IN-5210 Cambio Comandado CERRADO RTN
+IN-4940 Cambio No Comandado ABIERT
+IN-4940 Cambio No Comandado CERRADO RTN
+IN-5015 ALIMENT CD Cambio Comandado CERRADO RTN
+IN-91340 T 34 Cambio Comandado CERRADO RTN
+IN-98040 MEDIO Cambio Comandado CERRADO RTN
+IN-5545 ALIMENT CD Cambio No Comandado ABIERT
+IN-5545 ALIMENT CD Cambio Comandado CERRADO RTN
+IN-5545 ALIMENT CD Cambio No Comandado ABIERT
+IN-5545 ALIMENT CD Cambio Comandado CERRADO RTN
+IN-5010 Cambio No Comandado ABIERT
+IN-5010 Cambio No Comandado CERRADO RTN
+IN-73240 LTD Cambio No Comandado CERRADO RTN
+IN-77000 TRANSFE B1/BT Anormal Cambio Autorizado ABIERTO
+IN-4045 Cambio No Comandado ABIERT
+IN-5040 ALIMENT CD Cambio Comandado CERRADO RTN
+IN-5030 ALIMENT CD Cambio No Comandado ABIERT
+IN-5030 ALIMENT CD Cambio Comandado CERRADO RTN
+IN-5435 ALIMENT CD Cambio No Comandado ABIERTO
+IN-55015 Cambio No Comandado ABIERTO
+IN-5435 ALIMENT CD Cambio Comandado CERRADO RTN
+IN-55015 Cambio Comandado CERRADO RTN
+IN-4365 Anormal Cambio Autorizado ABIERTO
+IN-4375 Anormal Cambio Autorizado ABIERTO
+IN-5625 Cambio No Comandado ABIERT
+IN-5625 Cambio No Comandado CERRADO RTN
+IN-75010 CP 01 B Anormal Cambio Autorizado ABIERTO
+IN-91020 Cambio No Comandado ABIERTO
+IN-90020 Cambio No Comandado ABIERT
+IN-75010 CP 01 B Anormal Cambio Autorizado ABIERTO
+IN-75010 CP 01 B Anormal Cambio Autorizado ABIERTO
+IN-4075 Cambio No Comandado ABIERT
+IN-4085 Cambio No Comandado ABIERT
+IN-4085 Cambio No Comandado CERRADO RTN
+IN-4075 Cambio No Comandado CERRAD RTN
+IN-4075 Cambio No Comandado ABIERT
+IN-4085 Cambio No Comandado ABIERT
+IN-4085 Cambio No Comandado CERRADO RTN
+IN-4085 Cambio No Comandado ABIERT
+IN-4075 Cambio No Comandado CERRADO RTN
+IN-4075 Cambio No Comandado ABIERT
+IN-4075 Cambio Comandado CERRADO RTN
+IN-4105 Cambio No Comandado ABIERTO
+IN-4105 Cambio No Comandado CERRAD RTN
+IN-4105 Cambio No Comandado ABIERT
+IN-4105 Cambio No Comandado CERRAD RTN
+IN-73620 OTV Cambio No Comandado CERRADO RTN
+IN-78460 ANILLO LT/T Cambio Comandado CERRADO RTN
+IN-42050 SP Anormal Cambio Autorizado ABIERTO
+IN-72990 AT-99 Anormal Cambio Autorizado ABIERTO
+IN-92990 AT-99 Anormal Cambio Autorizado ABIERTO

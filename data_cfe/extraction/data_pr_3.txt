@@ -1,0 +1,299 @@
+PR-50 5515🕐Hora del Evento:15:00:40💬Mensaje:
+PR-50 5515🕐Hora del Evento:15:00:40💬Mensaje:
+PR-51 5615🕐Hora del Evento:15:01:05💬Mensaje:
+PR-50 5515🕐Hora del Evento:15:00:40💬Mensaje:
+PR-51 5615🕐Hora del Evento:15:01:05💬Mensaje:
+PR-50 5515🕐Hora del Evento:15:00:40💬Mensaje:
+PR-51 5615🕐Hora del Evento:15:01:05💬Mensaje:
+PR-50 5525🕐Hora del Evento:15:03:42💬Mensaje:
+PR-50 5615🕐Hora del Evento:15:05:39💬Mensaje:
+PR-50/51 5120🕐Hora del Evento:15:07:30💬Mensaje:
+PR-50 5515🕐Hora del Evento:15:00:40💬Mensaje:
+PR-51 5615🕐Hora del Evento:15:01:05💬Mensaje:
+PR-50 5525🕐Hora del Evento:15:03:42💬Mensaje:
+PR-50 5615🕐Hora del Evento:15:05:39💬Mensaje:
+PR-50/51 5120🕐Hora del Evento:15:07:30💬Mensaje:
+PR-51X 5030🕐Hora del Evento:15:09:15💬Mensaje:
+PR-51 5615🕐Hora del Evento:15:10:51💬Mensaje:
+PR-50 5515🕐Hora del Evento:15:00:40💬Mensaje:
+PR-51 5615🕐Hora del Evento:15:01:05💬Mensaje:
+PR-50 5525🕐Hora del Evento:15:03:42💬Mensaje:
+PR-50 5615🕐Hora del Evento:15:05:39💬Mensaje:
+PR-50 5515🕐Hora del Evento:15:00:40💬Mensaje:
+PR-50 5515 Cambio No Comandado NORMAL RTN
+PR-51 5615🕐Hora del Evento:15:01:05💬Mensaje:
+PR-51 5615 Cambio No Comandado NORMAL RTN
+PR-50 5515🕐Hora del Evento:15:00:40💬Mensaje:
+PR-50 5515 Cambio No Comandado OPERAD
+PR-50 5515 Cambio No Comandado NORMAL RTN
+PR-51 5615🕐Hora del Evento:15:01:05💬Mensaje:
+PR-51 5615 Cambio No Comandado OPERAD
+PR-51 5615 Cambio No Comandado NORMAL RTN
+PR-50 5515 Cambio No Comandado OPERAD
+PR-50 5515 Cambio No Comandado NORMAL RTN
+PR-51 5615 Cambio No Comandado OPERAD
+PR-51 5615 Cambio No Comandado NORMAL RTN
+PR-50 5515 Cambio No Comandado OPERAD
+PR-50 5515 Cambio No Comandado NORMAL RTN
+PR-51 5615 Cambio No Comandado OPERAD
+PR-51 5615 Cambio No Comandado NORMAL RTN
+PR-50 5515 Cambio No Comandado OPERAD
+PR-50 5515 Cambio No Comandado NORMAL RTN
+PR-51 5615 Cambio No Comandado OPERAD
+PR-51 5615 Cambio No Comandado NORMAL RTN
+PR-50 5525 Cambio No Comandado OPERAD
+PR-50 5525 Cambio No Comandado NORMAL RTN
+PR-50 5525 Cambio No Comandado OPERAD
+PR-50 5525 Cambio No Comandado NORMAL RTN
+PR-50 5525 Cambio No Comandado OPERAD
+PR-50 5525 Cambio No Comandado NORMAL RTN
+PR-50 5615 Cambio No Comandado OPERAD
+PR-50 5615 Cambio No Comandado NORMAL RTN
+PR-50/51 5120 Cambio No Comandado OPERAD
+PR-50/51 5120 Cambio No Comandado NORMAL RTN
+PR-50 5515 Cambio No Comandado OPERAD
+PR-50 5515 Cambio No Comandado NORMAL RTN
+PR-51 5615 Cambio No Comandado OPERAD
+PR-51 5615 Cambio No Comandado NORMAL RTN
+PR-50 5515 Cambio No Comandado OPERAD
+PR-50 5515 Cambio No Comandado NORMAL RTN
+PR-51 5615 Cambio No Comandado OPERAD
+PR-51 5615 Cambio No Comandado NORMAL RTN
+PR-50 5525 Cambio No Comandado OPERAD
+PR-50 5525 Cambio No Comandado NORMAL RTN
+PR-50 5525 Cambio No Comandado OPERAD
+PR-50 5525 Cambio No Comandado NORMAL RTN
+PR-50 5525 Cambio No Comandado OPERAD
+PR-50 5525 Cambio No Comandado NORMAL RTN
+PR-50 5615 Cambio No Comandado OPERAD
+PR-50 5615 Cambio No Comandado NORMAL RTN
+PR-50/51 5120 Cambio No Comandado OPERAD
+PR-50/51 5120 Cambio No Comandado NORMAL RTN
+PR-51X 5030 Cambio No Comandado OPERAD
+PR-51X 5030 Cambio No Comandado NORMAL RTN
+PR-50 5515 Cambio No Comandado OPERAD
+PR-50 5515 Cambio No Comandado NORMAL RTN
+PR-51 5615 Cambio No Comandado OPERAD
+PR-51 5615 Cambio No Comandado NORMAL RTN
+PR-50 5525 Cambio No Comandado OPERAD
+PR-50 5525 Cambio No Comandado NORMAL RTN
+PR-50 5525 Cambio No Comandado OPERAD
+PR-50 5525 Cambio No Comandado NORMAL RTN
+PR-50 5525 Cambio No Comandado OPERAD
+PR-50 5525 Cambio No Comandado NORMAL RTN
+PR-50 5615 Cambio No Comandado OPERAD
+PR-50 5615 Cambio No Comandado NORMAL RTN
+PR-50/51 4035 Cambio No Comandado OPERAD
+PR-50/51 4035 Cambio No Comandado NORMAL RTN
+PR-50/51 4035 Cambio No Comandado NORMAL RTN REC POR lgmp
+PR-50/51 4035 Cambio No Comandado OPERAD REC POR lgmp
+PR-51X 4700 Cambio No Comandado OPERAD
+PR-51X 4700 Cambio No Comandado NORMAL RTN
+PR-51X 4700 Cambio No Comandado NORMAL RTN REC POR lgmp
+PR-51X 4700 Cambio No Comandado OPERAD REC POR lgmp
+PR-50/51 4065 Cambio No Comandado OPERAD
+PR-50/51 4065 Cambio No Comandado NORMAL RTN
+PR-50/51 4065 Cambio No Comandado NORMAL RTN REC POR lgmp
+PR-50/51 4065 Cambio No Comandado OPERAD REC POR lgmp
+PR-TROA T 01 49A Cambio No Comandado OPERAD
+PR-TROA T 01 49A Cambio No Comandado OPERAD REC POR lgmp
+PR-150 T 02 Cambio No Comandado OPERAD
+PR-150 T 02 Cambio No Comandado NORMAL RTN
+PR-150 T 02 Cambio No Comandado NORMAL RTN REC POR lgmp
+PR-150 T 02 Cambio No Comandado OPERAD REC POR lgmp
+PR-51X 4290 Cambio No Comandado OPERAD
+PR-51X 4290 Cambio No Comandado NORMAL RTN
+PR-51X 4290 Cambio No Comandado NORMAL RTN REC POR lgmp
+PR-51X 4290 Cambio No Comandado OPERAD REC POR lgmp
+PR-TROA O ITA T-02 Cambio No Comandado OPERAD
+PR-51X 4940 Cambio No Comandado OPERAD
+PR-51X 4940 Cambio No Comandado NORMAL RTN
+PR-51X 4940 Cambio No Comandado NORMAL RTN REC POR lgmp
+PR-51X 4940 Cambio No Comandado OPERAD REC POR lgmp
+PR-TROA O ITA T-02 Cambio No Comandado OPERAD REC POR lgmp
+PR-TROA T 01 49A Cambio No Comandado OPERAD
+PR-TROA T 01 49A Cambio No Comandado OPERAD REC POR jata
+PR-51X INT 4245 Cambio No Comandado OPERAD
+PR-51X INT 4245 Cambio No Comandado NORMAL RTN
+PR-51X INT 4245 Cambio No Comandado OPERAD
+PR-51X INT 4245 Cambio No Comandado NORMAL RTN
+PR-51X INT 4245 Cambio No Comandado NORMAL RTN REC POR lgmp
+PR-51X INT 4245 Cambio No Comandado OPERAD REC POR lgmp
+PR-51X INT 4245 Cambio No Comandado NORMAL RTN REC POR lgmp
+PR-51X INT 4245 Cambio No Comandado OPERAD REC POR lgmp
+PR-26D T 03 ITA Cambio No Comandado OPERAD
+PR-26D T 03 ITA Cambio No Comandado OPERAD REC POR lgmp
+PR-TROA T 01 49A Cambio No Comandado OPERAD
+PR-51X 5010 Cambio No Comandado OPERAD
+PR-51X 5010 Cambio No Comandado NORMAL RTN
+PR-51X INT 4040 Cambio No Comandado OPERAD
+PR-51X INT 4040 Cambio No Comandado NORMAL RTN
+PR-5051 5010 CD Cambio No Comandado OPERAD
+PR-5051 5010 CD Cambio No Comandado NORMAL RTN
+PR-5051 5230 CD Cambio No Comandado OPERAD
+PR-5051 5230 CD Cambio No Comandado NORMAL RTN
+PR-150 T 02 Cambio No Comandado OPERAD
+PR-150 T 02 Cambio No Comandado NORMAL RTN
+PR-5051 5230 CD Cambio No Comandado OPERAD
+PR-5051 5230 CD Cambio No Comandado NORMAL RTN
+PR-150 T 02 Cambio No Comandado OPERAD
+PR-150 T 02 Cambio No Comandado NORMAL RTN
+PR-5051 5230 CD Cambio No Comandado OPERAD
+PR-5051 5230 CD Cambio No Comandado NORMAL RTN
+PR-150 T 02 Cambio No Comandado OPERAD
+PR-150 T 02 Cambio No Comandado NORMAL RTN
+PR-51X 5110 Cambio No Comandado OPERAD
+PR-51X 5110 Cambio No Comandado NORMAL RTN
+PR-63A Y/O 63D T-02 Cambio No Comandado OPERAD
+PR-63A Y/O 63D T-02 Cambio No Comandado NORMAL RTN
+PR-51X 5150 Cambio No Comandado OPERAD
+PR-51X 5150 Cambio No Comandado NORMAL RTN
+PR-TROA T-01 49A Cambio No Comandado OPERAD
+PR-26D T 03 ITA Cambio No Comandado OPERAD
+PR-TROA T-02 49A Cambio No Comandado OPERAD
+PR-50/51 5635 Cambio No Comandado OPERAD
+PR-50/51 5635 Cambio No Comandado NORMAL RTN
+PR-50/51 5635 Cambio No Comandado OPERAD
+PR-50/51 5635 Cambio No Comandado NORMAL RTN
+PR-50/51 5635 Cambio No Comandado OPERAD
+PR-50/51 5635 Cambio No Comandado NORMAL RTN
+PR-51X 4025 Cambio No Comandado OPERAD
+PR-51X 4025 Cambio No Comandado NORMAL RTN
+PR-51X 4730 Cambio No Comandado OPERAD
+PR-51X 4730 Cambio No Comandado NORMAL RTN
+PR-TROA T 01 49A Cambio No Comandado OPERAD
+PR-50 5615 Cambio No Comandado OPERAD
+PR-50 5615 Cambio No Comandado NORMAL RTN
+PR-59 CP 03 P1 Cambio No Comandado OPERAD
+PR-59B 55015 Cambio No Comandado OPERAD
+PR-59 CP 03 P1 Cambio No Comandado NORMAL RTN
+PR-59B 55015 Cambio No Comandado NORMAL RTN
+PR-TROA T-02 49A Cambio No Comandado NORMAL RTN
+PR-TROA T-02 49A Cambio No Comandado OPERAD
+PR-5051 5230 CD Cambio No Comandado OPERAD
+PR-5051 5230 CD Cambio No Comandado NORMAL RTN
+PR-TROA O ITA T-02 Cambio No Comandado OPERAD
+PR-51 5625 Cambio No Comandado OPERAD
+PR-51 5625 Cambio No Comandado NORMAL RTN
+PR-50/51 5635 Cambio No Comandado OPERAD
+PR-50/51 5635 Cambio No Comandado NORMAL RTN
+PR-50/51 5635 Cambio No Comandado OPERAD
+PR-50/51 5635 Cambio No Comandado NORMAL RTN
+PR-50/51 5635 Cambio No Comandado OPERAD
+PR-50/51 5635 Cambio No Comandado NORMAL RTN
+PR-51X 4365 Cambio No Comandado OPERAD
+PR-51X 4365 Cambio No Comandado NORMAL RTN
+PR-50/51 4095 Cambio No Comandado OPERAD
+PR-50/51 4095 Cambio No Comandado NORMAL RTN
+PR-5051 5040 CD Cambio No Comandado OPERAD
+PR-5051 5040 CD Cambio No Comandado NORMAL RTN
+PR-50 5445 Cambio No Comandado OPERAD
+PR-50 5445 Cambio No Comandado NORMAL RTN
+PR-5051 5230 CD Cambio No Comandado OPERAD
+PR-5051 5230 CD Cambio No Comandado NORMAL RTN
+PR-51X 5220 Cambio No Comandado OPERAD
+PR-51X 5220 Cambio No Comandado NORMAL RTN
+PR-86U UN 34 Cambio No Comandado OPERAD
+PR-5051 5230 CD Cambio No Comandado OPERAD
+PR-5051 5230 CD Cambio No Comandado NORMAL RTN
+PR-5051 5230 CD Cambio No Comandado OPERAD
+PR-5051 5230 CD Cambio No Comandado NORMAL RTN
+PR-5051 5230 CD Cambio No Comandado OPERAD
+PR-5051 5230 CD Cambio No Comandado NORMAL RTN
+PR-5051 5230 CD Cambio No Comandado OPERAD
+PR-5051 5230 CD Cambio No Comandado NORMAL RTN
+PR-50 5555 Cambio No Comandado OPERAD
+PR-50 5555 Cambio No Comandado NORMAL RTN
+PR-51X INT 4860 Cambio No Comandado OPERAD
+PR-51X INT 4860 Cambio No Comandado NORMAL RTN
+PR-150 T 02 Cambio No Comandado OPERAD
+PR-150 T 02 Cambio No Comandado NORMAL RTN
+PR-TROA T-01 49A Cambio No Comandado NORMAL RTN
+PR-26D T 03 ITA Cambio No Comandado NORMAL RTN
+PR-50/51 4055 Cambio No Comandado OPERAD
+PR-50/51 4055 Cambio No Comandado NORMAL RTN
+PR-50/51 4055 Cambio No Comandado OPERAD
+PR-50/51 4055 Cambio No Comandado NORMAL RTN
+PR-50/51 4055 Cambio No Comandado OPERAD
+PR-50/51 4055 Cambio No Comandado NORMAL RTN
+PR-TROA T 01 49A Cambio No Comandado NORMAL RTN
+PR-TROA O ITA T-02 Cambio No Comandado NORMAL RTN
+PR-50/51 5060 XN Cambio No Comandado OPERAD
+PR-50/51 5060 XN Cambio No Comandado NORMAL RTN
+PR-50 5525 Cambio No Comandado OPERAD
+PR-50 5525 Cambio No Comandado NORMAL RTN
+PR-TROA T-02 49A Cambio No Comandado NORMAL RTN
+PR-51X 5210 Cambio No Comandado OPERAD
+PR-51X 5210 Cambio No Comandado NORMAL RTN
+PR-150 T 02 Cambio No Comandado OPERAD
+PR-150 T 02 Cambio No Comandado NORMAL RTN
+PR-5051 5230 CD Cambio No Comandado OPERAD
+PR-5051 5230 CD Cambio No Comandado NORMAL RTN
+PR-TROA T 01 49A Cambio No Comandado OPERAD
+PR-51X 4290 Cambio No Comandado OPERAD
+PR-51X 4290 Cambio No Comandado NORMAL RTN
+PR-51X 4290 Cambio No Comandado OPERAD
+PR-51X 4290 Cambio No Comandado NORMAL RTN
+PR-51X 4290 Cambio No Comandado OPERAD
+PR-51X 4290 Cambio No Comandado NORMAL RTN
+PR-150 T-01 Cambio No Comandado OPERAD
+PR-150 T-01 Cambio No Comandado NORMAL RTN
+PR-5051 5015 CD Cambio No Comandado OPERAD
+PR-5051 5015 CD Cambio No Comandado NORMAL RTN
+PR-5051 5015 CD Cambio No Comandado OPERAD
+PR-5051 5015 CD Cambio No Comandado NORMAL RTN
+PR-5051 5015 CD Cambio No Comandado OPERAD
+PR-5051 5015 CD Cambio No Comandado NORMAL RTN
+PR-5051 5015 CD Cambio No Comandado OPERAD
+PR-5051 5015 CD Cambio No Comandado NORMAL RTN
+PR-51X INT 4050 Cambio No Comandado OPERAD
+PR-51X INT 4060 Cambio No Comandado OPERAD
+PR-51X INT 4050 Cambio No Comandado NORMAL RTN
+PR-51X INT 4060 Cambio No Comandado NORMAL RTN
+PR-51X 4940 Cambio No Comandado OPERAD
+PR-51X 4940 Cambio No Comandado NORMAL RTN
+PR-86U UN 34 Cambio No Comandado NORMAL RTN
+PR-TROA O ITA T-02 Cambio No Comandado OPERAD
+PR-50 5545 Cambio No Comandado OPERAD
+PR-50 5545 Cambio No Comandado NORMAL RTN
+PR-50 5545 Cambio No Comandado OPERAD
+PR-50 5545 Cambio No Comandado NORMAL RTN
+PR-51X 5010 Cambio No Comandado OPERAD
+PR-51X 5010 Cambio No Comandado NORMAL RTN
+PR-51X INT 4045 Cambio No Comandado OPERAD
+PR-51X INT 4045 Cambio No Comandado NORMAL RTN
+PR-TROA T-02 49A Cambio No Comandado OPERAD
+PR-TROA T 01 49A Cambio No Comandado NORMAL RTN
+PR-150 T 02 Cambio No Comandado OPERAD
+PR-150 T 02 Cambio No Comandado NORMAL RTN
+PR-63A Y/O 63D T-02 Cambio No Comandado OPERAD
+PR-63A Y/O 63D T-02 Cambio No Comandado NORMAL RTN
+PR-63A Y/O 63D T-02 Cambio No Comandado OPERAD
+PR-63A Y/O 63D T-02 Cambio No Comandado NORMAL RTN
+PR-63A Y/O 63D T-02 Cambio No Comandado OPERAD
+PR-63A Y/O 63D T-02 Cambio No Comandado NORMAL RTN
+PR-63A Y/O 63D T-02 Cambio No Comandado OPERAD
+PR-63A Y/O 63D T-02 Cambio No Comandado NORMAL RTN
+PR-63A Y/O 63D T-02 Cambio No Comandado OPERAD
+PR-63A Y/O 63D T-02 Cambio No Comandado NORMAL RTN
+PR-63A Y/O 63D T-02 Cambio No Comandado OPERAD
+PR-63A Y/O 63D T-02 Cambio No Comandado NORMAL RTN
+PR-63A Y/O 63D T-02 Cambio No Comandado OPERAD
+PR-50 5625 Cambio No Comandado OPERAD
+PR-50 5625 Cambio No Comandado NORMAL RTN
+PR-63A Y/O 63D T-02 Cambio No Comandado NORMAL RTN
+PR-50FI 91020 Cambio No Comandado OPERAD
+PR-50FI 90020 Cambio No Comandado OPERAD
+PR-TROA O ITA T-02 Cambio No Comandado NORMAL RTN
+PR-51X 4085 Cambio No Comandado OPERAD
+PR-51X 4075 Cambio No Comandado OPERAD
+PR-51X 4075 Cambio No Comandado NORMAL RTN
+PR-51X 4085 Cambio No Comandado NORMAL RTN
+PR-51X 4085 Cambio No Comandado OPERAD
+PR-51X 4075 Cambio No Comandado OPERAD
+PR-51X 4075 Cambio No Comandado NORMAL RTN
+PR-51X 4085 Cambio No Comandado NORMAL RTN
+PR-51X 4085 Cambio No Comandado OPERAD
+PR-51X 4085 Cambio No Comandado NORMAL RTN
+PR-51X 4075 Cambio No Comandado OPERAD
+PR-51X 4075 Cambio No Comandado NORMAL RTN
