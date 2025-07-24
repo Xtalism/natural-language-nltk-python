@@ -1,10 +1,16 @@
 import re
 
 
-class RegularExtractor:
-    def __init__(self, data_files, patterns):
-        self.data_files = data_files
-        self.patterns = patterns
+class RegularParser:
+    def __init__(self, data_files=None, patterns=None):
+        self.data_files = data_files if data_files is not None else []
+        self.patterns = patterns if patterns is not None else {}
+
+    def add_file(self, file_path):
+        self.data_files.append(file_path)
+
+    def add_pattern(self, name, pattern):
+        self.patterns[name] = pattern
 
     def extract_substations(self, text, pattern, verbose=False):
         matches = re.findall(pattern, text, flags=re.IGNORECASE)
@@ -68,25 +74,12 @@ class RegularExtractor:
                 elif pattern_name == "IN_numbers":
                     self.save_file(extract, f"data/extraction/data_in_{i + 1}.txt")
                 elif pattern_name == "PR_numbers":
-                    self.save_file(extract, f"data/extraction/data_pr_{i + 1}.txt")
+                    self.save_file(extract, f"data/extraction/data_pr_{i + 2}.txt")
                 else:
                     self.save_file(extract, f"data/extraction/data_{i + 1}.txt")
 
-    @classmethod
-    def run_extraction(cls):
-        data_files = [
-            "data/parsed/messages_data1.txt",
-            "data/parsed/messages_data2.txt",
-            "data/parsed/messages_data3.txt",
-            "data/parsed/messages_data4.txt",
-            "data/parsed/messages_data5.txt",
-        ]
-        patterns = {
-            "Substations_all": r"(Subestación Afectada:)([^⚡]+)⚡.*(?:IN-|PR-)[a-z0-9A-Z]+[^\n•]*",
-            "IN_numbers": r"IN-[a-z0-9A-Z]+[^\n•]*",
-            "Substations_only": r"Subestación Afectada:([^⚡]+)⚡.*IN-[a-z0-9A-Z]+[^\n•]*",
-            "PR_numbers": r"PR-[a-z0-9A-Z]+[^\n•]*",
-        }
-        extractor = cls(data_files, patterns)
-        extractor.process_file()
-        print("Extraction completed successfully.")
+
+def parse_files(data_files, patterns):
+    parser = RegularParser(data_files, patterns)
+    parser.process_file()
+    print("Files processed according to provided patterns.")
