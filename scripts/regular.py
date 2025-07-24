@@ -60,26 +60,26 @@ class RegularExtractor:
                 extract = self.extract_pattern(content, pattern, True)
                 extract_sub = self.extract_substations(content, pattern, True)
                 if pattern_name == "Substations_all":
-                    self.save_file(extract, f"data_cfe/extraction/data_all_{i + 1}.txt")
+                    self.save_file(extract, f"data/extraction/data_all_{i + 1}.txt")
                 elif pattern_name == "Substations_only":
                     self.save_file(
-                        extract_sub, f"data_cfe/extraction/data_substations_{i + 1}.txt"
+                        extract_sub, f"data/extraction/data_substations_{i + 1}.txt"
                     )
                 elif pattern_name == "IN_numbers":
-                    self.save_file(extract, f"data_cfe/extraction/data_in_{i + 1}.txt")
+                    self.save_file(extract, f"data/extraction/data_in_{i + 1}.txt")
                 elif pattern_name == "PR_numbers":
-                    self.save_file(extract, f"data_cfe/extraction/data_pr_{i + 1}.txt")
+                    self.save_file(extract, f"data/extraction/data_pr_{i + 1}.txt")
                 else:
-                    self.save_file(extract, f"data_cfe/extraction/data_{i + 1}.txt")
+                    self.save_file(extract, f"data/extraction/data_{i + 1}.txt")
 
     @classmethod
     def run_extraction(cls):
         data_files = [
-            "data_cfe/parsed/messages_data1.txt",
-            "data_cfe/parsed/messages_data2.txt",
-            "data_cfe/parsed/messages_data3.txt",
-            "data_cfe/parsed/messages_data4.txt",
-            "data_cfe/parsed/messages_data5.txt",
+            "data/parsed/messages_data1.txt",
+            "data/parsed/messages_data2.txt",
+            "data/parsed/messages_data3.txt",
+            "data/parsed/messages_data4.txt",
+            "data/parsed/messages_data5.txt",
         ]
         patterns = {
             "Substations_all": r"(Subestación Afectada:)([^⚡]+)⚡.*(?:IN-|PR-)[a-z0-9A-Z]+[^\n•]*",

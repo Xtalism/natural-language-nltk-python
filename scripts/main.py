@@ -13,21 +13,11 @@ from regular import RegularExtractor
 
 # 2. Verify punkt tokenizer is found
 
-parser.HTMLParser.parse_file(
-    "data_cfe/messages.html", "data_cfe/parsed/messages_data1.txt"
-)
-parser.HTMLParser.parse_file(
-    "data_cfe/messages2.html", "data_cfe/parsed/messages_data2.txt"
-)
-parser.HTMLParser.parse_file(
-    "data_cfe/messages3.html", "data_cfe/parsed/messages_data3.txt"
-)
-parser.HTMLParser.parse_file(
-    "data_cfe/messages4.html", "data_cfe/parsed/messages_data4.txt"
-)
-parser.HTMLParser.parse_file(
-    "data_cfe/messages5.html", "data_cfe/parsed/messages_data5.txt"
-)
+parser.HTMLParser.parse_file("data/messages.html", "data/parsed/messages_data1.txt")
+parser.HTMLParser.parse_file("data/messages2.html", "data/parsed/messages_data2.txt")
+parser.HTMLParser.parse_file("data/messages3.html", "data/parsed/messages_data3.txt")
+parser.HTMLParser.parse_file("data/messages4.html", "data/parsed/messages_data4.txt")
+parser.HTMLParser.parse_file("data/messages5.html", "data/parsed/messages_data5.txt")
 
 
 class Main:
