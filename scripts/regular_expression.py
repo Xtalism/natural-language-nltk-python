@@ -74,7 +74,7 @@ class RegularParser:
                 elif pattern_name == "IN_numbers":
                     self.save_file(extract, f"data/extraction/data_in_{i + 1}.txt")
                 elif pattern_name == "PR_numbers":
-                    self.save_file(extract, f"data/extraction/data_pr_{i + 2}.txt")
+                    self.save_file(extract, f"data/extraction/data_pr_{i + 1}.txt")
                 else:
                     self.save_file(extract, f"data/extraction/data_{i + 1}.txt")
 
