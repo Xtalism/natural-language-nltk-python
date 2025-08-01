@@ -30,4 +30,3 @@ def parse_file(file_path, output_file):
             messages.append(message_text)
     HTMLParser.save_file(messages, output_file)
     print(f"Extracted messages have been saved to {output_file}")
-

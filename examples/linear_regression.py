@@ -1,46 +1,28 @@
-import matplotlib.pyplot as plt
-import numpy as np
+import pickle
+
 import pandas as pd
 from sklearn import linear_model
 
-x: int = 3300
+x: int = 5000
 
-df = pd.read_csv("examples/data/homeprices.csv")
+df = pd.read_csv("examples/data/initial_homeprices.csv")
 # print(df)
 
-plt.xlabel("Area in square feet")
-plt.ylabel("Price in US$")
-plt.scatter(df.area, df.price, color="r", marker="+")
-# plt.show()
+model = linear_model.LinearRegression()
+model.fit(df[["area"]], df.price)
 
-reg = linear_model.LinearRegression()
-reg.fit(df[["area"]], df.price)
+coefficients = model.coef_
+interception = model.intercept_
+cost = model.predict([[x]])
 
-intercept = reg.predict(np.array([[x]]))
-# print(f"Prediction value: {intercept}")
+print(f"Coefficients: {coefficients}")
+print(f"Interception: {interception}")
+print(f"Cost for area {x}: {cost[0]}")
 
-m = reg.coef_
-# print(f"coeficient value {m}")
+with open("model_pickle", "wb") as f:
+    pickle.dump(model, f)
 
-b = reg.intercept_
-# print(f"Intercept value {b}")
+with open("model_pickle", "rb") as f:
+    mp = pickle.load(f)
 
-slope = m * x + b
-# print(f"Slope value: {slope}")
-
-d = pd.read_csv("examples/data/areas.csv")
-# print(d.head(3))
-
-area_prices = reg.predict(d)
-print(f"\n{area_prices}")
-
-d["prices"] = area_prices
-print(f"\n{d}")
-
-d.to_csv("examples/data/predicted_prices.csv", index=False)
-
-plt.xlabel("area", fontsize=20)
-plt.ylabel("price", fontsize=20)
-plt.scatter(df.area, df.price, color="r", marker="+")
-plt.plot(df.area, reg.predict(df[["area"]]), color="b", linewidth=3)
-plt.show()
+print(mp.predict([[x]]))
