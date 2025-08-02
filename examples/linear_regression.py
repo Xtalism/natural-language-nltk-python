@@ -1,5 +1,6 @@
 import pickle
 
+import joblib
 import pandas as pd
 from sklearn import linear_model
 
@@ -26,3 +27,8 @@ with open("model_pickle", "rb") as f:
     mp = pickle.load(f)
 
 print(mp.predict([[x]]))
+joblib.dump(model, "model_joblib")
+mj = joblib.load("model_joblib")
+print(mj.predict([[x]]))
+print(mj.coef_)
+print(mj.intercept_)
